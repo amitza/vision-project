@@ -1,0 +1,5 @@
+h5py==3.7.0
+numpy
+opencv-python==4.5.5.64
+scikit-learn
+protobuf<=3.20.*
